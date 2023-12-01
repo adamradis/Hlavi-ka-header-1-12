@@ -1,0 +1,25 @@
+header{
+    background-color: aqua;
+    display: flex;
+    margin: 1px;
+    padding-right: 15px;
+    justify-content: right;
+
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+    border-radius: 16px;
+
+
+}
+
+.obrazek{
+    display: flex;
+    justify-content: left;
+    
+
+}
