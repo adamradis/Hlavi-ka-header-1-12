@@ -14,8 +14,19 @@ a{
     text-decoration: none;
     color: black;
     border-radius: 16px;
-    justify-content: right;
+    justify-content: center;
 
+    margin: 5px;
+    padding: 5px;
+
+
+
+
+}
+
+.login{
+    display: flex;
+    align-items: center;
 
 
 }
@@ -25,6 +36,7 @@ a{
     padding: 16px;
     border-radius: 126px;
     max-width: 70%;
+
 
 }
 
