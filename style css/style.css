@@ -1,25 +1,30 @@
 header{
-    background-color: aqua;
+    background-color: rgb(197, 199, 218);
     display: flex;
     margin: 1px;
-    padding-right: 15px;
-    justify-content: right;
-
-}
-
-
-
-a{
-    text-decoration: none;
-    color: black;
-    border-radius: 16px;
-
-
-}
-
-.obrazek{
-    display: flex;
-    justify-content: left;
+    justify-content: space-between;
     
 
 }
+
+
+
+a{  
+    
+    text-decoration: none;
+    color: black;
+    border-radius: 16px;
+    justify-content: right;
+
+
+
+}
+
+.obrazek img{
+    margin: 16px;
+    padding: 16px;
+    border-radius: 126px;
+    max-width: 70%;
+
+}
+
