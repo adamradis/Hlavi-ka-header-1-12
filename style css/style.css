@@ -50,7 +50,7 @@ main{
 
 footer{
     background-color: rgb(148, 157, 157);
-    min-height: 200px;
+    min-height: 300px;
     
 
 }
@@ -67,8 +67,24 @@ body{
     gap: 20px;
     padding: 30px;
 
+}
 
+h1{
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    padding: 15px;
+    text-decoration: none;
 
+}
 
+p{
+    padding: 15px;
+    text-decoration: none;
+
+}
+
+li{
+    text-decoration: none;
 
 }
