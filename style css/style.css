@@ -69,22 +69,18 @@ body{
 
 }
 
-h2{
+.otv{
     display: flex;
-    justify-content: center;
-    padding: 15px;
-
-    
+    justify-content: right;  
 }
 
-h3{
+
+
+.kt{
     display: flex;
     justify-content: left;
-    padding: 1px;
 
-    
 }
-
 
 li{
     display: flex;
@@ -101,4 +97,19 @@ svg:hover{
 
 }
 
+ul{
+    margin: 0;
+    padding: 0;
+}
 
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 24px 
+}
+
+.wrapper{
+    max-width: 1300px;
+    margin: auto;
+}
